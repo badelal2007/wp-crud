@@ -2,12 +2,12 @@
 
 # Documentation
 
-#Instalation
+# Instalation
 
 Click on "Download ZIP" to download the example
 After download OR clone git repository(git@github.com:badelal2007/wp-crud.git), go to this plugin directory and run below command
 
-```composer install
+composer install
 
 Includes the following files
 
