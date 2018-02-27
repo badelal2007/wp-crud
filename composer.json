@@ -1,0 +1,17 @@
+{
+    "name": "badelal2007/wp-crud",
+    "description": "Press Room Wordpress CRUD plugin.",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "badelal2007/validator": "dev-master"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Bade Lal",
+            "email": "badelal2007@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
